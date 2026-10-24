@@ -2,3 +2,4 @@ Software Project Management Lab 3
 Configuration Management with Git
 Version 1.0 - Initial experiment file
 Version 2.0 - Updated from local computer
+Version 2.0 - Updated from GitHub remote
