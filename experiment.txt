@@ -1,0 +1,3 @@
+Software Project Management Lab 3 
+Configuration Management with Git 
+Version 1.0 - Initial experiment file 
